@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aatomz
+- 👋 Hi, I’m @tomzaz
 - 👀 I’m interested in building frictionless experiences.
 - 🌱 I’m currently learning Python and Blender.
 - 💞️ I’m looking to collaborate on ways to improve customer and user experiences.
